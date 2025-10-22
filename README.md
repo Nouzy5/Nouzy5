@@ -1,5 +1,5 @@
 <h1>
-  Hi there 👋. 
+  Hi there 👋
   <p></p>My name is Nicolas and I'm a high-school student of Evangelical Gymnasium J. A. Comenius in Slovakia.🏫</p>
 </h1>
 <p>I have an interest in mastering full-stack development and am currently learning on my own time.🖥</p>
